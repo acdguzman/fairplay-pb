@@ -95,3 +95,63 @@ Automatically generate matches based on fairness algorithm.
 # Status
 
 Draft
+---
+
+# 7. User Roles
+
+## Organizer
+
+The organizer can:
+
+- Create an Open Play session
+- Add or remove courts
+- Register players
+- Start and end sessions
+- Report a finished match
+- Pause or remove players
+- Override automatic match suggestions
+
+## Player
+
+The player can:
+
+- Join an Open Play session
+- Leave the session
+- View current queue
+- View assigned court
+- View match history
+- View personal statistics
+
+---
+
+# 8. Success Criteria
+
+The project will be considered successful if:
+
+- Match generation takes less than 1 second.
+- Players experience minimal waiting time.
+- Players rarely play with the same partner repeatedly.
+- Players rarely face the same opponents repeatedly.
+- Games played remain balanced across all participants.
+- Organizers no longer need to manually choose players.
+
+---
+
+# 9. Future Features
+
+Future versions may include:
+
+- DUPR integration
+- QR Code player check-in
+- Tournament Mode
+- Club Management
+- Player Ratings
+- TV Display Mode
+- Mobile App
+- AI-powered matchmaking improvements
+
+---
+
+# Document Status
+
+Draft v0.1
